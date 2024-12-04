@@ -20,4 +20,4 @@ jobs:
 
       - name: Run
         run: |
-          npm build
+          npm run build
